@@ -1,0 +1,71 @@
+@import '../../../../GlobalStyles/variables';
+//used variables : $linkcolor, $linkactivecolor
+
+.navbar_link{
+    color: $linkcolor;
+    text-decoration: none;
+}
+
+.navbar_link:hover{
+    text-decoration: none;
+    color: rgb(124, 124, 124);
+}
+
+.navbar_link--active{
+    color: $linkactivecolor;
+}
+
+li{
+    // display: inline-block;
+    margin-right: 25px;
+    font-size: 26px;
+}
+
+ul{
+    padding-inline-start: 0;
+}
+
+.scuba-search {
+    background-color: $defaultcolor;
+    color: rgb(0, 0, 0);
+    border: $defaultcolor 2px solid;
+    width: 8em;
+    height: 2.2em;
+    &:focus {outline: none; background-color: $selectedcolor;}
+}
+
+@media screen and (min-width: 1600px) {
+    .scuba-search {
+      width: 16em;
+    }
+}
+
+.search-button {
+    background-color: rgb(245, 245, 245);
+    border: $defaultcolor solid 2px;
+    color: black;
+    height: 2.2em;
+    width: 3.5em;
+}
+
+.login-button {
+    background-color: $defaultcolor;
+    background-image: url("../../../gfx/lock-icon-300x300.png");
+    height: 2em;
+    width: 4em;
+}
+
+@media screen and (min-width: 1600px) {
+    .login-button {
+      width: 7em;
+    }
+}
+
+
+.login-text {
+    padding-left: 1em;
+    padding-top: 0.2em;
+    font-size: 1.2em;
+}
+
+
