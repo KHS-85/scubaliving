@@ -10,7 +10,7 @@ const DykkerKurser = () => {
             <section className="banner mt-5 pl-5 pr-5">
                 <div className="row">
                     <div className="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-6 banner-title">
-                        <h1 className="pl-5 pt-3 shop-title-text">Padi - Dykkercertifikat</h1>
+                        <h1 className="pl-1 pl-sm-5 pt-3 shop-title-text long-text">Padi - Dykkercertifikat</h1>
                     </div>
                     <div className="col banner-title-grey"></div>
 
@@ -22,7 +22,7 @@ const DykkerKurser = () => {
                 
 
                     <div className="col-12 col-lg-6 padikursus-text">
-                        <div className="text p-5 m-5">
+                        <div className="text p-1 m-1 p-sm-5 m-sm-5">
                         <h2>Tag et internationalt anerkendt dykkercertifikat</h2>
                         <p className="roboto-text">Her finder du et stort udvalg af dykkerkuser lige fra begynder
                             til professionel. vi er et af Danmarks førende dykkercentre, som uddanner fra PADI
@@ -39,7 +39,7 @@ const DykkerKurser = () => {
 
                     <div className="col padikursus-logo">
                         <div className="text-center text-lg-right pr-lg-5 pb-5 py-5">
-                            <img className="img-padi" src={padilogo} alt="Padi Logo" />
+                            <img className="img-padi img-fluid" src={padilogo} alt="Padi Logo" />
                         </div>
                         
                     </div>

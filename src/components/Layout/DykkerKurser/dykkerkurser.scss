@@ -1,18 +1,5 @@
 @import '../../../GlobalStyles/variables';
 
-// .padikursus-text {
-
-// border: solid black 1px;
-// border-right: none;
-
-// }
-
-// .padikursus-logo {
-
-//     border: solid black 1px;
-//     border-left: none;
-    
-// }
 
 .testbox {
     outline: solid black 1px;
@@ -23,4 +10,14 @@
 
     width: 20rem;
     height: auto;
+}
+
+.long-text {
+    font-size: 2rem;
+}
+
+@media screen and (min-width: 472px) {
+    .long-text {
+        font-size: 2.5rem;
+    }
 }

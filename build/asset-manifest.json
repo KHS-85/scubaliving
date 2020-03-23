@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2628c9fc.chunk.css",
+    "main.js": "/static/js/main.16f38c7d.chunk.js",
+    "main.js.map": "/static/js/main.16f38c7d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e30d9d21.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e30d9d21.js.map",
+    "static/js/2.d4ee1cea.chunk.js": "/static/js/2.d4ee1cea.chunk.js",
+    "static/js/2.d4ee1cea.chunk.js.map": "/static/js/2.d4ee1cea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6d34edffe636ce5ec401fe2dc91dc28f.js": "/precache-manifest.6d34edffe636ce5ec401fe2dc91dc28f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2628c9fc.chunk.css.map": "/static/css/main.2628c9fc.chunk.css.map",
+    "static/js/2.d4ee1cea.chunk.js.LICENSE.txt": "/static/js/2.d4ee1cea.chunk.js.LICENSE.txt",
+    "static/media/fine.jpg": "/static/media/fine.2e40bdfe.jpg",
+    "static/media/hanske.jpg": "/static/media/hanske.c6916b12.jpg",
+    "static/media/logo.svg": "/static/media/logo.48369111.svg",
+    "static/media/malta.jpg": "/static/media/malta.2efb0599.jpg",
+    "static/media/maske.jpg": "/static/media/maske.0374423e.jpg",
+    "static/media/norge.jpg": "/static/media/norge.4c4b8a19.jpg",
+    "static/media/padi.svg": "/static/media/padi.f613d454.svg",
+    "static/media/reg.jpg": "/static/media/reg.11026f63.jpg",
+    "static/media/scubahero.scss": "/static/media/scuba2.85aeb23d.jpg",
+    "static/media/scubaman.png": "/static/media/scubaman.dc79d5c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30d9d21.js",
+    "static/js/2.d4ee1cea.chunk.js",
+    "static/css/main.2628c9fc.chunk.css",
+    "static/js/main.16f38c7d.chunk.js"
+  ]
+}

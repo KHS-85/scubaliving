@@ -13,7 +13,7 @@ const DykkerUdstyr = () => {
             <div className="banner mt-5 px-5">
             <section className="row">
                 <div className="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-6 banner-title">
-                        <h1 className="pl-5 pt-3 shop-title-text">Mest populære dykkerudstyr</h1>
+                        <h1 className="pl-1 pl-sm-5 pt-3 shop-title-text">Mest populære dykkerudstyr</h1>
                 </div>
                     <div className="col banner-title-grey"></div>
                 
@@ -23,7 +23,7 @@ const DykkerUdstyr = () => {
         <section className="shop-content row p-5">
 
             <div className="col-12 col-md-6 col-lg-4 col-xl-3">
-                <div className="card text-center text-muted p-5 my-3">
+                <div className="card text-center text-muted p-2 p-sm-5 my-3">
                     <img className="card-img-top" src={regulator} alt="diving regulator" />
                     <div className="card-body">
                         <h2 className="card-title">Regulator med resist</h2>
@@ -34,7 +34,7 @@ const DykkerUdstyr = () => {
 
 
             <div className="col-12 col-md-6 col-lg-4 col-xl-3">
-                <div className="card text-center text-muted p-5 my-3">
+                <div className="card text-center text-muted p-2 p-sm-5 my-3">
                     <img className="card-img-top" src={maske} alt="dykkermaske" />
                     <div className="card-body">
                         <h2 className="card-title">Aqualung Impression</h2>
@@ -44,7 +44,7 @@ const DykkerUdstyr = () => {
             </div>
 
             <div className="col-12 col-md-6 col-lg-4 col-xl-3">
-                <div className="card text-center text-muted p-5 my-3">
+                <div className="card text-center text-muted p-2 p-sm-5 my-3">
                     <img className="card-img-top" src={finne} alt="rejsefinne" />
                     <div className="card-body">
                         <h2 className="card-title">ScubaPro Rejsefinne</h2>
@@ -55,7 +55,7 @@ const DykkerUdstyr = () => {
 
 
             <div className="col-12 col-md-6 col-lg-4 col-xl-3">
-                <div className="card text-center text-muted p-5 my-3">
+                <div className="card text-center text-muted p-2 p-sm-5 my-3">
                     <img className="card-img-top" src={handske} alt="handske" />
                     <div className="card-body">
                         <h2 className="card-title">Coldwater Gloves</h2>
