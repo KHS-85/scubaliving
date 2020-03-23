@@ -18,8 +18,8 @@ const Nav = () => {
 
                {/* ScubaLiving Logo */}
 
-           <span className="navbar-brand"><NavLink exact to="/" className="navbar_link" activeClassName="navbar_link--active"><img src={ScubaLogo} width="300" height="auto"
-            alt="ScubaLiving Logo"/></NavLink>
+           <span className="navbar-brand navbar-logo">
+               <NavLink exact to="/" className="navbar_link" activeClassName="navbar_link--active"><img src={ScubaLogo} alt="ScubaLiving Logo"/></NavLink>
             </span> 
 
 
