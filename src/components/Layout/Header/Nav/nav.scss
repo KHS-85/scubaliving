@@ -52,7 +52,7 @@ ul{
     background-color: $defaultcolor;
     background-image: url("../../../gfx/lock-icon-300x300.png");
     height: 2em;
-    width: 4em;
+    width: 3.5em;
 }
 
 @media screen and (min-width: 1600px) {
@@ -73,7 +73,7 @@ ul{
     height: auto;
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1320px) {
     .navbar-logo {
         width: 300px;
         height: auto;

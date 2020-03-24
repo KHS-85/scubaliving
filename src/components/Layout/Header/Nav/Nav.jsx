@@ -5,6 +5,7 @@ import ScubaLogo from '../../../gfx/logo.svg'
 import LockIcon from '../../../gfx/lock-icon-60x60.png'
 
 const Nav = () => {
+
     return (
 
         <nav className="navbar navbar-expand-xl navbar-light bg-light px-0">
@@ -24,7 +25,7 @@ const Nav = () => {
 
 
             {/* Collapses all links and searchbar */}
-            <div className="collapse navbar-collapse" id="navbarSupportedContent">
+            <div className="collapse navbar-collapse pl-3" id="navbarSupportedContent">
 
                 {/* List of links on Navbar*/}
 
@@ -73,6 +74,8 @@ const Nav = () => {
                 </NavLink>
 
         </nav>
+
+
 
 
 

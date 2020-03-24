@@ -1,6 +1,6 @@
 import React from 'react'
 import './dykkerkurser.scss';
-import padilogo from '../../gfx/padi.svg'
+import padilogo from '../../gfx/padi.png'
 
 const DykkerKurser = () => {
     return (
@@ -50,7 +50,7 @@ const DykkerKurser = () => {
 
             <section className="row">
             <div className="col text-center pb-5">
-                <h1>Se alle kurser og certifikater her!</h1>
+                <h1 className="hvr-grow">Se alle kurser og certifikater her!</h1>
             </div>
         </section>
 

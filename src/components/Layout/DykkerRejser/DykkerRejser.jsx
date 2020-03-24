@@ -28,7 +28,7 @@ const DykkerRejser = () => {
                 <img className="card-img-top p-1 p-sm-2 p-lg-3 p-xl-5" src={malta} alt="Malta" />
                 <div className="card-body bg-black">
                     <h1 className="card-title text-white pt-4 my-0 pl-1 pl-sm-5">Malta</h1>
-                    <p className="card-text text-white pb-5 my-0 pl-1 pl-sm-5">Oplev Malta og det helt fantastiske dyreliv og sammenhold. Vi arrangerer dykkerrejser til Malta hele året rundt.</p>
+                    <p className="card-text text-white pb-5 my-0 pl-1 pl-sm-5">Oplev Malta og det helt fantastiske dyreliv og sammenhold. Vi arrangerer uforglemmelige dykkerrejser til Malta hele året rundt.</p>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@ const DykkerRejser = () => {
 
     <section className="row">
         <div className="col text-center">
-            <h1>Se flere destination og muligheder her!</h1>
+            <h1 className="hvr-grow">Se flere destination og muligheder her!</h1>
         </div>
     </section>
 

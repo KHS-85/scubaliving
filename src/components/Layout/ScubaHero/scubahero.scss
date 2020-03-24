@@ -7,9 +7,47 @@ background-color: rgba(255, 255, 255, 0.7);
 text-align: center;
 position: absolute;
 top: 236px;
-left: 30%;
+left: 5%;
+right: 5%;
 padding: 2% 8%;
 }
+
+@media screen and (min-width: 768px) {
+    .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 236px;
+    left: 8%;
+    right: 8%;
+    // left: 30%;
+    padding: 2% 3%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 236px;
+    left: 15%;
+    right: auto;
+    padding: 2% 8%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 236px;
+    left: 25%;
+    right: auto;
+    padding: 2% 8%;
+    }
+}
+
+
+
 
 .quote-text {
 font-size: 1.2rem;

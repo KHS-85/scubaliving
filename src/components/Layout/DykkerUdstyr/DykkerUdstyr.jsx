@@ -58,7 +58,7 @@ const DykkerUdstyr = () => {
                 <div className="card text-center text-muted p-2 p-sm-5 my-3">
                     <img className="card-img-top" src={handske} alt="handske" />
                     <div className="card-body">
-                        <h2 className="card-title">Coldwater Gloves</h2>
+                        <h2 className="card-title">Coldwater Gloves "S"</h2>
                         <p className="card-text">kr. 1499,-</p>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ const DykkerUdstyr = () => {
 
         <section className="row">
             <div className="col text-center">
-                <h1>Se mere lækkert udstyr her!</h1>
+                <h1 className="hvr-grow">Se mere lækkert udstyr her!</h1>
             </div>
         </section>
 
